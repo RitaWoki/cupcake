@@ -1,0 +1,11 @@
+p.flashy {
+  color:red;
+  font-style:italic;
+}
+p.best{
+  color:blue;
+  font-variant: small-caps;
+  font-size: 50%
+  font-weight:bolder;
+
+}
